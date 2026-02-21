@@ -55,6 +55,6 @@ The project uses the following datasets:
 
 ## 8. Dashboard Preview
  <a href="https://github.com/Krishbelwal/Retail-Sales-Analysis/blob/main/Project_Dashboard.png">View Dashboard</a>
-<br><br>
-# This project is open to professional feedback and collaborative contributions.
-# I would greatly appreciate any suggestions for improvement, enhancements, or analytical extensions. 🤝📊
+<br><br><br>
+##This project is open to professional feedback and collaborative contributions.
+##I would greatly appreciate any suggestions for improvement, enhancements, or analytical extensions. 🤝📊
