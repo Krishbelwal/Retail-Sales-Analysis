@@ -9,11 +9,11 @@ This project focuses on analysing retail sales performance using three structure
 ## 3. Dataset
 - **Source:** Kaggle  
 - **Customer Dataset**
-- <a href="https://github.com/Krishbelwal/Amazon_Customer_Analysis/blob/main/Customer_Dataset.csv">Dataset</a>
+- <a href="https://github.com/Krishbelwal/Retail-Sales-Analysis/blob/main/Customer_Dataset.csv">Dataset</a>
 - **Order Dataset Dataset**
-- <a href="https://github.com/Krishbelwal/Amazon_Customer_Analysis/blob/main/Order_Dataset.csv">Dataset</a>
+- <a href="https://github.com/Krishbelwal/Retail-Sales-Analysis/blob/main/Order_Dataset.csv">Dataset</a>
 - **Product Dataset**
-- <a href="https://github.com/Krishbelwal/Amazon_Customer_Analysis/blob/main/Product_Dataset.csv">Dataset</a>
+- <a href="https://github.com/Krishbelwal/Retail-Sales-Analysis/blob/main/Product_Dataset.csv">Dataset</a>
 
 - ## 4. project process - 
 Understanding business problem - Data understanding - Data cleaning - Data modelling - Data Analysis - Visualisation
