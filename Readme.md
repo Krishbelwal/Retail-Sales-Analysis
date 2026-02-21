@@ -9,7 +9,7 @@ This project analyzes retail sales performance using three structured datasets: 
 The analysis supports data-driven business decision-making using Excel-based analytics.
 
 
-## 3. Dataset
+## 2. Dataset
 ## The project uses the following datasets:
 - **Source:** Kaggle  
 - **Customer Dataset**
@@ -20,7 +20,7 @@ The analysis supports data-driven business decision-making using Excel-based ana
 - <a href="https://github.com/Krishbelwal/Retail-Sales-Analysis/blob/main/Product_Dataset.csv">Dataset</a>
 
 
-- ## 4. Tools & Technologies
+- ## 3. Tools & Technologies
 - **Data Import:** Excel (Kaggle dataset)  
 - **Data Cleaning:** Excel
 - **Data Modelling - Power Pivot  
@@ -28,7 +28,7 @@ The analysis supports data-driven business decision-making using Excel-based ana
 - **Data visualisation - Excel(pivot table)
 
 - 
-- ## 5. Project Workflow -
+- ## 4. Project Workflow -
 - **Business Problem Understanding
 - **Data Understanding
 - **Data Cleaning
@@ -37,7 +37,7 @@ The analysis supports data-driven business decision-making using Excel-based ana
 - **Dashboard Creation
 
 
-- ## 6. Key Insights
+- ## 5. Key Insights
 - **Strong Revenue with High AOV: The business generated high total revenue with a strong average order value, indicating premium or bundled purchasing behaviour.
 - **Seasonal & Occasion-Driven Sales: Revenue significantly fluctuates across months, with peak performance during major festivals and special occasions.
 - **Top Products Drive Majority Revenue: A small number of products contribute disproportionately to total revenue, indicating revenue concentration.
@@ -45,7 +45,7 @@ The analysis supports data-driven business decision-making using Excel-based ana
 - **Customer Spending is Relatively High: Customers are willing to spend more per order, suggesting an opportunity for upselling and premium positioning.
 - **Delivery Time Gap Exists: The average delivery time indicates potential operational inefficiencies that may impact customer satisfaction.
 
-- ## 7. Recommendations
+- ## 6. Recommendations
 - **Implement Occasion-Based Marketing Strategy: Plan promotional campaigns before peak festivals to maximise revenue opportunities.
 - **Expand & Promote Best-Selling Products: Focus on high-performing products while bundling or repositioning low-performing items.
 - **Diversify Geographic Reach: Strengthen marketing in underperforming cities through localised campaigns and first-order discounts.
