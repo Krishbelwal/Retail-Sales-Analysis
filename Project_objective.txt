@@ -1,0 +1,6 @@
+Extract Data - Cleaning - Transformation(if needed) - Data modeling (if needed) - Analysis(EDA) - Dashboard
+cleaning + Transforamtion - Power query
+power pivot - Data modeling
+
+
+Data modeling se pdna h Jha power pivot opne hua vha se
