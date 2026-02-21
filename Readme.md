@@ -10,7 +10,7 @@ The analysis supports data-driven business decision-making using Excel-based ana
 
 
 ## 2. Dataset
-## The project uses the following datasets:
+** The project uses the following datasets:
 - **Source:** Kaggle  
 - **Customer Dataset**
 - <a href="https://github.com/Krishbelwal/Retail-Sales-Analysis/blob/main/Customer_Dataset.csv">Dataset</a>
