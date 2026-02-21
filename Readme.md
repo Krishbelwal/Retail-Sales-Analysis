@@ -2,6 +2,7 @@
 
 ![Dashboard](Project_Dashboard.png)
 
+## An Excel-based retail sales analysis project showcasing hands-on experience with data cleaning, data modelling, pivot table analysis, and interactive dashboard visualisation.
 
 ## 1. Project Overview
 This project analysis retail sales performance using three structured datasets: Customers, Orders, and Products. The objective is to extract actionable insights related to revenue performance, customer behaviour, product contribution, and operational efficiency.
@@ -23,9 +24,9 @@ The project uses the following datasets:
 ## 3. Tools & Technologies
  - **Data Import:** Excel (Kaggle dataset)  
  - **Data Cleaning:** Excel
- - **Data Modelling - Power Pivot  
+ - **Data Modelling** - Power Pivot  
  - **Data Analysis:** Excel(pivot table)
- - **Data visualisation - Excel(pivot table)
+ - **Data visualisation** - Excel(pivot table)
 
 
 ## 4. Project Workflow -
